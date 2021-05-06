@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="valid_email_address_error">Enter a valid email address</string>
+    <string name="please_enter_valid_password">Enter a valid password</string>
+    <string name="no_internet">No internet</string>
+    <string name="something_went_wrong_while_retrieving_information">something went wrong while retrieving information</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="app_tool_bar_height">50dp</dimen>
+    <dimen name="app_tool_bar_back_arrow_height">20dp</dimen>
+    <dimen name="app_tool_bar_back_arrow_width">15dp</dimen>
+
+</resources>

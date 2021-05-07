@@ -58,6 +58,6 @@ public class MainActivity extends AppCompatActivity {
                 .replace(R.id.content_layout, fragment)
                 .commit();
     }
-    https://we.tl/t-0lV6hpKic5
+
 
 }
